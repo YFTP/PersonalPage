@@ -623,7 +623,8 @@ li {
     margin: 0;
 }
 
-.about .skills .item {
+ /*.about .skills .item {
+   
     margin-top: 40px;
 }
 
@@ -643,12 +644,12 @@ li {
     font-weight: 300;
     color: #9C9C9C;
 }
-
+*/
 /*-----------------------------------------------------------------*/
 /*                      SECTION FUN FACTS                          */
 /*-----------------------------------------------------------------*/
 .facts {
-    background: url(http://placehold.it/740x270) center left no-repeat;
+    background: url(../images/banner1.png) center left no-repeat;
     background-size: cover;
 }
 
@@ -694,7 +695,7 @@ li {
     border: solid 1px #1a1a1a;
     padding: 20px;
     margin-top: 30px;
-    max-height: 140px;
+    max-height: 240px;
     overflow: hidden;
 }
 
